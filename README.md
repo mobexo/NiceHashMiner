@@ -81,7 +81,7 @@ Fine-tune mining algorithms:
 Submit bug reports or feature requests through GitHub issues.
 
 ## 📥 **Downloads**
-Latest releases [here](#). *(Links to be added)*
+Latest releases [here](https://github.com/mobexo/NiceHashMiner/releases). *(Links to be added)*
 
 ---
 
